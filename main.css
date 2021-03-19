@@ -104,7 +104,6 @@ nav {
     width: 600px;
     display: inline-block;
     font-size: 14px;
-    display: inline-block;
 }
     a {
         color: white;
@@ -113,14 +112,13 @@ nav {
         padding: 0px;
         margin: 40px;
         text-align: center;
-        list-style-position: inside;
-        list-style: circle;
         display: inline-block;
         line-height: 110%;
         width: 240px;
         height: 200px;
     }
     .contents ul li {
+        list-style-position: inside;
         display: list-item;
         list-style: circle;
         width: 110px;
