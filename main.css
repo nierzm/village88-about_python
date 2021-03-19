@@ -1,0 +1,224 @@
+.container {
+    background-color: #245076;
+    height: 900px;
+    width: 960px;
+    margin: 10px auto;
+    padding: 0px;
+}
+header{
+    display: inline-block;
+    height: 110px;
+    width: 955px;
+    margin: 0px;
+    padding: 5px;
+    vertical-align: top;
+}
+    header img {
+        height: 100px;
+        width: 350px;
+        display: inline-block;
+        margin-right: 100px;
+    }
+ul {
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 0px;
+    padding: 0px;
+    width: 280px;
+    height: 20px;
+    text-align: right;
+    vertical-align: top;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    height: 50px;
+    width: 250px;
+    color: white;
+    margin-right: 10px;
+        
+}
+    header span {
+        color: #050c12;
+    }
+    header a {
+        color: #d5b300;
+    }
+    form {
+        align-items: center;
+        height: 55px;
+        width: 280px;
+        background-color: #444444;
+        border-radius: 10px;
+        box-shadow: 3px 5px black;
+        display: inline-block;
+        vertical-align: top;
+        margin-left: -275px;
+        margin-top: 25px;
+    }
+    input {
+        height: 35px;
+        width: 45px;
+        background-color: #245076;
+        box-shadow: 2px 3px black;
+        margin: 8px 8px;
+        color: white;
+        border-radius: 10px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    #search {
+        margin: 8px 0px 10px 30px;
+        height: 30px;
+        width: 150px;
+        background-color: white;
+        border-radius: 1px;
+        display: inline-block;
+        text-align: center;
+    }
+nav {
+    background-color: #457dad;
+    display: inline-block;
+    margin: 0px 55px;
+    padding-top: 10px;
+    padding-left: 25px;
+    width: 830px;
+    vertical-align: top;
+    text-align: center;
+    height: 35px;
+    box-shadow: 3px 3px black;
+    border-radius: 5px;
+}
+    nav ul{
+        display: inline;
+        margin: 25px;
+    }
+    nav ul li {
+        display: inline;
+        font-size: 20px;
+        margin-right: 40px;
+    }
+.contents {
+    color: white;
+    height: 50px;
+    width: 600px;
+    display: inline-block;
+    font-size: 14px;
+    display: inline-block;
+}
+    a {
+        color: white;
+    }
+    .contents ul {
+        padding: 0px;
+        margin: 40px;
+        text-align: center;
+        list-style-position: inside;
+        list-style: circle;
+        display: inline-block;
+        line-height: 110%;
+        width: 240px;
+        height: 200px;
+    }
+    .contents ul li {
+        display: list-item;
+        list-style: circle;
+        width: 110px;
+        margin-left: 70px;
+        padding: 10px;
+        height: 5px;
+    }
+article {
+    color: white;
+    height: 100px;
+    width: 550px;
+    width: 550px;
+    margin: -40px 50px;
+    text-align: center;
+    font-size: 14px;
+    padding-left: 300px;
+}
+.quote {
+    color: #f2cb34;
+    height: 100px;
+    width: 295px;
+    margin: 20px -10px;
+    display: inline-block;
+    padding-left: 500px;
+    text-align: center;
+    line-height:150%;
+    font-size: 20px;
+    font-style: italic;
+}
+#zen {
+    color: white;
+    margin: 20px 570px;
+    width: 200px;
+    font-size: 18px;
+}
+main {
+    display: inline-block;
+}
+    main p {
+        padding: 0px 75px;
+    }
+    h3 {
+        border-top: 5px solid #aac6e6;
+        margin: 30px;
+        padding: 0px;
+    }
+    main ul {
+        list-style: square;
+        padding: 0px;
+        margin: 0px;
+        text-align: center;
+        display: inline-block;
+        line-height: 100%;
+        width: 280px;
+        height: 200px;
+    }
+    main ul li {
+        color: #75a9d6;
+        list-style: square;
+        width: 250px;
+        margin: 0px;
+        padding: 10px;
+        height: 5px;
+        display: list-item;
+    }
+.guide {
+    background-color: #ffffff;
+    margin: 0px;
+    padding: -10px;
+    width: 490px;
+    height: 320px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin-bottom: 30px;
+}
+.applications {
+    background-color: #ffffff;
+    margin: 0px -4px;
+    padding: -10px;
+    width: 470px;
+    height: 320px;
+    display: inline-block;
+    text-align: center;
+}
+footer ul {
+    display: inline;
+}
+footer ul li{
+    color: #87b9e5;
+    width: 850px;
+    margin: 20px;
+    display: inline;
+    font-size: 18px;
+}
+    h6 {
+        text-align: center;
+        margin-top: 15px;
+        color: #87b9e5;
+    }
+
